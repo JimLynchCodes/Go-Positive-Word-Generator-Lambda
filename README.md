@@ -1,2 +1,2 @@
-# Go-Positive-Word-Generator-Lambda
+# Go Positive Word Generator Lambda
 A super random Go Lang lambda function that generates a words that have a positive connotation... 
