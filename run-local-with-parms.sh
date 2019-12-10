@@ -1,0 +1,1 @@
+make && sudo sls invoke local -f hello --path ./fake-payload.json
